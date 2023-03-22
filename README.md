@@ -1,5 +1,5 @@
 # MatProgCsom2023
-Repository for the course "Matematikai programcsomagok" @ELTE, spring semester 2023
+Repository for the course "Matematikai programcsomagok" @ ELTE, spring semester 2023
 
 Useful resources to learn git:
 * https://git-scm.com/doc
