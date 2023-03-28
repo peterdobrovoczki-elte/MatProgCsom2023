@@ -1,0 +1,25 @@
+set I := CSIRKE MARHA BIRKA RIZS KORPA ZSELATIN;
+set Nl := feherje zsir;
+set Nu := rost so;
+
+param c :=
+    CSIRKE   0.013
+    MARHA    0.008
+    BIRKA    0.010
+    RIZS     0.002
+    KORPA    0.005
+    ZSELATIN 0.001;
+
+param A : feherje zsir rost so :=
+    CSIRKE   0.100 0.080 0.001 0.002
+    MARHA    0.200 0.100 0.005 0.005
+    BIRKA    0.150 0.110 0.003 0.007
+    RIZS     0.000 0.010 0.100 0.002
+    KORPA    0.040 0.010 0.150 0.008
+    ZSELATIN 0.000 0.000 0.000 0.000;
+
+param b :=
+    feherje  8
+    zsir     6
+    rost     2
+    so       0.4;
