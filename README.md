@@ -16,3 +16,17 @@ Introduction to basic concepts and usage of git and github. Useful resources to 
 * https://gitimmersion.com/index.html
 
 ### Class 4 (2023.03.29):
+Usage of the modeling library [PuLP](https://coin-or.github.io/pulp/). 
+
+Exercises:
+* Mixing of a steel alloy
+* Max-cut
+* Least absolute deviation as LP
+* Sudoku
+* Rectangle packing
+
+### Class 5 (2023.04.05):
+Deep learning with [TensorFlow](https://www.tensorflow.org/) and [Keras](https://keras.io/). Understanding building blocks of a  model through its construction and training it on the MNIST dataset.
+
+Exercises:
+* LeNet-5
